@@ -1,3 +1,20 @@
+# What is this?
+
+In a effort to be more mindful about where me and my family get food from, I've been looking into what it takes to hunt wild animals. Listening to The Joe Rogan Experience might have also been a factor. Anyway I've been reading up on legislation and the next step would be for me to apply and pass an exam on hunter education topics.
+
+# Next steps
+
+- Run the project on the phone
+- Make it a PWA so I can take it with me and study
+- Add more questions
+- Add visual feedback: important for memorizing the answers
+    - Animation: Flash red and shake the wrong answer when clicked
+    - Animation: Flash green and slide out the old question and slide in the new question
+- Share the project on Github
+- Credit where I'm getting the questions from
+- Maybe eject from Create React and have more ownership over the toolchain
+- Keep hammering ;)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
