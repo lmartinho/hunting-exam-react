@@ -1,0 +1,10 @@
+[
+    {
+        "question": "Poderão ser dispensados da carta de caçador?",
+        "answers": [
+            {"answer": "Os agentes das autoridades com competência na fiscalização da caça"},
+            {"answer": "Os membros do Governo, os Deputados à Assembleia da República e os funcionários do ICNF"},
+            {"answer": "Os estrangeiros não residentes em território português, desde que habilitados a caçarem no país da sua nacionalidade ou residência", "correct": true}
+        ]
+    }
+]
