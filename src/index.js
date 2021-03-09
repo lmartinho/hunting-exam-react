@@ -6,7 +6,7 @@ import './index.css';
 class Question extends React.Component {
   render() {
     const answers = this.props.question.answers.map(answer =>
-        <li onClick={() => {this.props.onAnswerClick(this.props.question, answer)}}>{answer.answer}</li>
+        <li onClick={() => {this.props.onAnswerClick(answer)}}>{answer.answer}</li>
     );
     
     return (
@@ -20,30 +20,34 @@ class Question extends React.Component {
   }
 }
 
-class Game extends React.Component {
+class Quiz extends React.Component {
   constructor(props) {
     super(props);
+    const questions = require('./data/questions.json');
     this.state = {
-      questions: require('./data/questions.json'),
+      questions: questions,
+      questionIndex: 0
     }
   }
 
-  onAnswerClick(question, answer) {
+  onAnswerClick(answer) {
     if (answer.correct) {
-      alert('you are right');
-      // TODO: Move to next question
+      const questions = this.state.questions.slice();
+      this.setState({
+        questions: questions,
+        questionIndex: this.state.questionIndex + 1
+      })
+      
     } else {
-      alert('WRONG!');
+      alert('ERRADO! Tenta novamente');
     }
   }
 
   render() {
-    const questions = this.state.questions.map((question) => 
-    <Question question={question} onAnswerClick={this.onAnswerClick}></Question>
-    );
+    const currentQuestion = this.state.questions[this.state.questionIndex];
     return (
-      <div className="game">
-        {questions}  
+      <div className="quiz">
+        <Question question={currentQuestion} onAnswerClick={answer => this.onAnswerClick(answer)}></Question>
       </div>
     );
   }
@@ -52,7 +56,7 @@ class Game extends React.Component {
 // ========================================
 
 ReactDOM.render(
-  <Game />,
+  <Quiz />,
   document.getElementById('root')
 );
 
