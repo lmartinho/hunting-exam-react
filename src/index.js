@@ -6,7 +6,7 @@ import './index.css';
 class Question extends React.Component {
   render() {
     const answers = this.props.question.answers.map(answer =>
-        <li>{answer.answer}</li>
+        <li onClick={() => {this.props.onAnswerClick(this.props.question, answer)}}>{answer.answer}</li>
     );
     
     return (
@@ -27,9 +27,19 @@ class Game extends React.Component {
       questions: require('./data/questions.json'),
     }
   }
+
+  onAnswerClick(question, answer) {
+    if (answer.correct) {
+      alert('you are right');
+      // TODO: Move to next question
+    } else {
+      alert('WRONG!');
+    }
+  }
+
   render() {
     const questions = this.state.questions.map((question) => 
-    <Question question={question}></Question>
+    <Question question={question} onAnswerClick={this.onAnswerClick}></Question>
     );
     return (
       <div className="game">
