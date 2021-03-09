@@ -6,7 +6,7 @@ import './index.css';
 class Question extends React.Component {
   render() {
     const answers = this.props.question.answers.map(answer =>
-        <li onClick={() => {this.props.onAnswerClick(answer)}}>{answer.answer}</li>
+        <li onClick={() => {this.props.onAnswerClick(answer)}}>{answer.text}</li>
     );
     
     return (

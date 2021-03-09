@@ -2,25 +2,33 @@
     {
         "question": "Poderão ser dispensados da carta de caçador?",
         "answers": [
-            {"answer": "Os agentes das autoridades com competência na fiscalização da caça"},
-            {"answer": "Os membros do Governo, os Deputados à Assembleia da República e os funcionários do ICNF"},
-            {"answer": "Os estrangeiros não residentes em território português, desde que habilitados a caçarem no país da sua nacionalidade ou residência", "correct": true}
+            {"text": "Os agentes das autoridades com competência na fiscalização da caça"},
+            {"text": "Os membros do Governo, os Deputados à Assembleia da República e os funcionários do ICNF"},
+            {"text": "Os estrangeiros não residentes em território português, desde que habilitados a caçarem no país da sua nacionalidade ou residência", "correct": true}
         ]
     },
     {
         "question": "Para a obtenção da carta de caçador, além de outros requisitos, é ainda necessário:",
         "answers": [
-            {"answer": "Ser cidadão nacional"},
-            {"answer": "Ser residente em território nacional"},
-            {"answer": "Ter mais de 16 anos", "correct": true}
+            {"text": "Ser cidadão nacional"},
+            {"text": "Ser residente em território nacional"},
+            {"text": "Ter mais de 16 anos", "correct": true}
         ]
     },
     {
         "question": "A carta de caçador pode ser renovada:",
         "answers": [
-            {"answer": "Nos 12 meses que antecedem o final da sua validade", "correct": true},
-            {"answer": "Nos 18 meses que antecedem o final da sua validade"},
-            {"answer": "Nos 24 meses que antecedem o final da sua caducidade"}
+            {"text": "Nos 12 meses que antecedem o final da sua validade", "correct": true},
+            {"text": "Nos 18 meses que antecedem o final da sua validade"},
+            {"text": "Nos 24 meses que antecedem o final da sua caducidade"}
+        ]
+    },
+    {
+        "question": "Quando o seu titular é condenado por crime de caça, a carta de caçador:",
+        "answers": [
+            {"text": "Deve ser corrigida" },
+            {"text": "Caduca", "correct": true},
+            {"text": "Deve ser trocada"}
         ]
     }
 ]
