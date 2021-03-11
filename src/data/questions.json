@@ -30,5 +30,21 @@
             {"text": "Caduca", "correct": true},
             {"text": "Deve ser trocada"}
         ]
+    },
+    {
+        "question": "Qual das frases está correta?",
+        "answers": [
+            { "text": "Os membros do corpo diplomático podem ser dispensados de licença de caça" },
+            { "text": "A licença regional de caça autoriza o exercício da caça na área da região cinegética a que respeita", "correct": true },
+            { "text": "A licenç regional de caça apenas é válida para algumas espécies" }
+        ]
+    },
+    {
+        "question": "A licença de cão de caça é exigida para cães:",
+        "answers": [
+            { "text": "Com mais de 4 meses de idade" },
+            { "text": "Com mais de 12 meses de idade" },
+            { "text": "Com mais de 6 meses de idade", "correct": true }
+        ]
     }
 ]
