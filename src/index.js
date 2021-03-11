@@ -6,7 +6,7 @@ import './index.css';
 class Question extends React.Component {
   render() {
     const answers = this.props.question.answers.map(answer =>
-        <li onClick={() => {this.props.onAnswerClick(answer)}}>{answer.text}</li>
+        <li key={answer.text} onClick={() => {this.props.onAnswerClick(answer)}}>{answer.text}</li>
     );
     
     return (
@@ -60,3 +60,13 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('./serviceWorker.js', {scope: './'})
+  .then((reg) => {
+    // registration worked
+    console.log('Registration succeeded. Scope is ' + reg.scope);
+  }).catch((error) => {
+    // registration failed
+    console.log('Registration failed with ' + error);
+  });
+}
