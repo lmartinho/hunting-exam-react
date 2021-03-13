@@ -18,6 +18,7 @@ ol, ul {
 ul li {
   font-size: 20px;
   color: white;
+  cursor: pointer;
   background-color: var(--dark-blue);
   margin: 20px;
   padding: 20px;
