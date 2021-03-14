@@ -24,19 +24,24 @@ class Quiz extends React.Component {
   constructor(props) {
     super(props);
     const questions = require('./data/questions.json');
+    const random = true;
     this.state = {
       questions: questions,
-      questionIndex: 0
+      questionIndex: random ? Math.floor(Math.random() * (questions.length - 1)) : 0,
+      random: random
     }
+  }
+
+  nextQuestionIndex() {
+    const questions = this.state.questions.slice();
+    const questionIndex = this.state.random ? Math.floor(Math.random() * (questions.length - 1)) : this.state.questionIndex + 1;
+    return questionIndex;
   }
 
   onAnswerClick(answer) {
     if (answer.correct) {
-      const questions = this.state.questions.slice();
-      this.setState({
-        questions: questions,
-        questionIndex: this.state.questionIndex + 1
-      })
+      const nextQuestionIndex = this.nextQuestionIndex();
+      this.setState({questionIndex: nextQuestionIndex});
       
     } else {
       alert('ERRADO! Tenta novamente');
@@ -69,4 +74,6 @@ if ('serviceWorker' in navigator) {
     // registration failed
     console.log('Registration failed with ' + error);
   });
+} else {
+  console.error('no service worker');
 }
