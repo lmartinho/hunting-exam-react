@@ -36,7 +36,7 @@
         "answers": [
             { "text": "Os membros do corpo diplomático podem ser dispensados de licença de caça" },
             { "text": "A licença regional de caça autoriza o exercício da caça na área da região cinegética a que respeita", "correct": true },
-            { "text": "A licenç regional de caça apenas é válida para algumas espécies" }
+            { "text": "A licença regional de caça apenas é válida para algumas espécies" }
         ]
     },
     {
@@ -45,6 +45,230 @@
             { "text": "Com mais de 4 meses de idade" },
             { "text": "Com mais de 12 meses de idade" },
             { "text": "Com mais de 6 meses de idade", "correct": true }
+        ]
+    },
+    {
+        "question": "Um caçador que pretenda caçar só às narcejas numa única região cinegética deve ser titular de:",
+        "answers": [
+            { "text": "Licença para caçar aves aquáticas" },
+            { "text": "Licença regional de caça ou licença nacional de caça", correct: true },
+            { "text": "Licença regional de caça e licença de aves aquáticas" }
+        ]
+    },
+    {
+        "question": "Um caçador para exercer o ato venatório pode ser dispensado da licença de caça?",
+        "answers": [
+            { "text": "Não, nunca pode ser dispensado", "correct": true },
+            { "text": "Sim, se for estrangeiro, não residente em território nacional" },
+            { "text": "Sim, se for membro do corpo diplomático acreditado em Portugal" }
+        ]
+    },
+    {
+        "question": "Indique quem está dispensado da licença de caça para caçar:",
+        "answers": [
+            { "text": "Os membros do corpo diplomático e consular acreditados em Portugal" },
+            { "text": "Os estrangeiros não residentes em território português, desde que estejam habilitados a caçar no pais da sua nacionalidade ou residência" },
+            { "text": "Ninguém", "correct": true }
+        ]
+    },
+    {
+        "question": "Um caçador que pretenda caçar só coelhos numa única região cinegética deve ser titular de:",
+        "answers": [
+            { "text": "Licença para caçar aves aquáticas" },
+            { "text": "Licença regional de caça ou licença nacional de caça", "correct": true },
+            { "text": "Licença regional de caça e licença de aves aquáticas" }
+        ]
+    },
+    {
+        "question": "Consideram-se terrenos cinegéticos aqueles onde:",
+        "answers": [
+            { "text": "É permitido o exercício da caça", "correct": true },
+            { "text": "As espécies cinegéticas vagueiam livremente" },
+            { "text": "As espécies cinegéticas se reproduzem e alimentam" }
+        ]
+    },
+    {
+        "question": "Consideram-se terrenos não cinegéticos aqueles onde:",
+        "answers": [
+            { "text": "Não existem espécies cinegéticas" },
+            { "text": "As espécies cinegéticas não se reproduzem nem se alimentam" },
+            { "text": "É proibido o exercício da caça", "correct": true }
+        ]
+    },
+    {
+        "question": "Consideram-se terrenos cinegéticos:",
+        "answers": [
+            { "text": "Aqueles onde é permitido o exercício da caça, incluindo as áreas de jurisdição marítima e as águas interiores", "correct": true },
+            { "text": "Aqueles onde não é permitido o exercício da caça" },
+            { "text": "Os campos de treino de caça e as áreas de refúgio de caça" }
+        ]
+    },
+    {
+        "question": "Consideram-se terrenos não cinegéticos:",
+        "answers": [
+            { "text": "Aqueles onde é proibido o exercício da caça", "correct": true },
+            { "text": "As zonas de caça turísticas" },
+            { "text": "As áreas de jurisdição marítima" }
+        ]
+    },
+    {
+        "question": "Consideram-se terrenos não cinegéticos:",
+        "answers": [
+            { "text": "As áreas de proteção", "correct": true },
+            { "text": "As zonas de caça nacionais" },
+            { "text": "As áreas de jurisdição marítima" }
+        ]
+    },
+    {
+        "question": "Consideram-se terrenos não cinegéticos:",
+        "answers": [
+            { "text": "Apenas as áreas de refúgio de caça e os aparcamentos de gado" },
+            { "text": "Apenas as áreas de não caça e os campos de treino de caça" },
+            { "text": "Todos os terrenos onde é proibido o exercício da caça", "correct": true }
+        ]
+    },
+    {
+        "question": "Qual das seguintes áreas é considerada como terreno cinegético?",
+        "answers": [
+            { "text": "Campo de treino de caça" },
+            { "text": "Área de refúgio de caça" },
+            { "text": "Zona de caça municipal", "correct": true }
+        ]
+    },
+    {
+        "question": "Quais das seguintes áreas podem ser consideradas terrenos cinegéticos?",
+        "answers": [
+            { "text": "Campos de treino de caça" },
+            { "text": "Áreas de jurisdição marítima", "correct": true },
+            { "text": "Áreas de proteção" }
+        ]
+    },
+    {
+        "question": "Os matilheiros são auxiliares do caçador que têm como função:",
+        "answers": [
+            { "text": "Procurar, perseguir e levantar espécies de caça menor com a ajuda de cães" },
+            { "text": "Procurar, perseguir e levantar espécies de caça maior com a ajuda de cães", "correct": true },
+            { "text": "Procurar, perseguir e levantar espécies de caça maior sem a ajuda de cães" }
+        ]
+    },
+    {
+        "question": "Considera-se época venatória o período anual:",
+        "answers": [
+            { "text": "Que decorre entre o dia 1 de junho de cada ano e o dia 31 de maio do ano seguinte" },
+            { "text": "Em que se pode praticar o exercício venatório" },
+            { "text": "Que decorre entre o dia 15 de agosto e o último domingo do mês de fevereiro do ano seguinte", "correct": true }
+        ]
+    },
+    {
+        "question": "Dos auxiliares de caça indicados há um que não pode perseguir a caça com auxílio de cães:",
+        "answers": [
+            { "text": "Batedores" },
+            { "text": "Negaceiros", "correct": true },
+            { "text": "Matilheiros" }
+        ]
+    },
+    {
+        "question": "Época venatória é:",
+        "answers": [
+            { "text": "O período anual que decorre entre o dia 1 de junho de cada ano e o dia 31 de maio do ano seguinte", "correct": true },
+            { "text": "O intervalo de tempo em que cada uma das espécies pode ser caçada" },
+            { "text": "O período estipulado no calendário venatório para o exercício da caça a espécies de caça menor" }
+        ]
+    },
+    {
+        "question": "A utilização do barco na caça aos patos:",
+        "answers": [
+            { "text": "É permitida desde que o barco esteja em movimento" },
+            { "text": "É permitida só nas deslocações entre locais de espera e nas esperas", "correct": true },
+            { "text": "É permitida desde que se atire com o motor em movimento" }
+        ]
+    },
+    {
+        "question": "Qual dos seguintes grupos de espécies se pode caçar de barco?",
+        "answers": [
+            { "text": "Patos, galinha-d’água e galeirão", "correct": true },
+            { "text": "Patos, galinhola e galeirão" },
+            { "text": "Patos, narcejas e galeirão" }
+        ]
+    },
+    {
+        "question": "Que infração comete um caçador que no mês de outubro, numa zona de caça utiliza dez cães na caça à perdiz pelo processo de salto?",
+        "answers": [
+            { "text": "Utiliza um número de cães superior ao permitido", "correct": true },
+            { "text": "Caça num mês em que não pode ser autorizada a caça a esta espécie" },
+            { "text": "Utiliza um processo de caça proibido para a espécie no mês de outubro" }
+        ]
+    },
+    {
+        "question": "O período venatório de uma espécie cinegética é:",
+        "answers": [
+            { "text": "O intervalo de tempo em que pode ser caçada", "correct": true },
+            { "text": "O intervalo de tempo em que é válida uma licença de caça" },
+            { "text": "O período que decorre entre 1 de junho e 31 de maio do ano seguinte" }
+        ]
+    },
+    {
+        "question": "Em terrenos cobertos de neve, a qual das seguintes espécies não é proibida a caça?",
+        "answers": [
+            { "text": "Coelho" },
+            { "text": "Raposa" },
+            { "text": "Javali", "correct": true }
+        ]
+    },
+    {
+        "question": "A qual das seguintes espécies é permitido o uso de chamarizes na caça?",
+        "answers": [
+            { "text": "Tordos" },
+            { "text": "Pombos" },
+            { "text": "Patos", "correct": true }
+        ]
+    },
+    {
+        "question": "Um caçador, pode caçar pelo processo de salto com o auxilio de 10 cães que espécies cinegéticas?",
+        "answers": [
+            { "text": "Raposa" },
+            { "text": "Lebre" },
+            { "text": "Coelho", "correct": true }
+        ]
+    },
+    {
+        "question": "No continente, na caça ao coelho-bravo por processo diferente do de batida, cada caçador ou grupo de caçadores pode utilizar no máximo:",
+        "answers": [
+            { "text": "10 cães", "correct": true },
+            { "text": "15 cães e 2 cachorros" },
+            { "text": "50 cães" }
+        ]
+    },
+    {
+        "question": "Qual o número máximo de cães que pode ser utilizado na caça à raposa a corricão?",
+        "answers": [
+            { "text": "50", "correct": true },
+            { "text": "100" },
+            { "text": "Ilimitado" }
+        ]
+    },
+    {
+        "question": "Assinale a afirmação correta:",
+        "answers": [
+            { "text": "É proibido capturar crias ou ovos de qualquer espécie, cinegética ou não", "correct": true },
+            { "text": "É proibido caçar patos entre o nascer e o pôr-do-sol" },
+            { "text": "É proibido caçar em terrenos cinegéticos não ordenados às quintas-feiras" }
+        ]
+    },
+    {
+        "question": "Como regra, o exercício da caça só é permitido entre o nascer e o pôr-do-sol, exceto:",
+        "answers": [
+            { "text": "Na caça aos patos, pelo processo de espera, quando exercida até 200 m dos planos de água" },
+            { "text": "Na caça às espécies de caça maior, pelo processo de espera, que é autorizada em período de lua cheia", "correct": true },
+            { "text": "Na caça aos pombos, tordos e estorninho-malhado, que só é permitida até às 17 horas" }
+        ]
+    },
+    {
+        "question": "A caça de aproximação é um processo de caça autorizado para:",
+        "answers": [
+            { "text": "Espécies de caça maior", "correct": true },
+            { "text": "Espécies de caça menor" },
+            { "text": "Aves aquáticas" }
         ]
     }
 ]
