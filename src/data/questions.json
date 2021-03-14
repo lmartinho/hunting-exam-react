@@ -51,7 +51,7 @@
         "question": "Um caçador que pretenda caçar só às narcejas numa única região cinegética deve ser titular de:",
         "answers": [
             { "text": "Licença para caçar aves aquáticas" },
-            { "text": "Licença regional de caça ou licença nacional de caça", correct: true },
+            { "text": "Licença regional de caça ou licença nacional de caça", "correct": true },
             { "text": "Licença regional de caça e licença de aves aquáticas" }
         ]
     },
@@ -269,6 +269,126 @@
             { "text": "Espécies de caça maior", "correct": true },
             { "text": "Espécies de caça menor" },
             { "text": "Aves aquáticas" }
+        ]
+    },
+    {
+        "question": "O uso de negaças é permitido na caça:",
+        "answers": [
+            { "text": "Aos pombos, aos patos, à pega-rabuda e à gralha-preta", "correct": true },
+            { "text": "Às narcejas e tarambola-dourada" },
+            { "text": "Ao galeirão e galinha-d’água" }
+        ]
+    },
+    {
+        "question": "Durante o exercício da caça, o caçador pode ser ajudado por auxiliares que:",
+        "answers": [
+            { "text": "Não podem fazer parte da linha de caçadores", "correct": true },
+            { "text": "Não podem transportar munições" },
+            { "text": "Não podem transportar armas de fogo, arco ou besta acondicionadas em estojo ou bolsa" }
+        ]
+    },
+    {
+        "question": "Na caça à lebre a corricão podem ser utilizados no máximo:",
+        "answers": [
+            { "text": "Dois cães de busca e dois cães galgos por cada lebre", "correct": true },
+            { "text": "Um cão de busca e três cães galgos por cada lebre" },
+            { "text": "Três cães de busca e um cão galgo por cada lebre" }
+        ]
+    },
+    {
+        "question": "No exercício da caça, cada caçador pode utilizar, no máximo:",
+        "answers": [
+            { "text": "Três cães na caça à perdiz-vermelha" },
+            { "text": "Dez cães na caça ao coelho-bravo, pelo processo de batida" },
+            { "text": "Dez cães na caça ao coelho-bravo, pelo processo de batida", "correct": true }
+        ]
+    },
+    {
+        "question": "O processo de caça em que o caçador se desloca para capturar determinado exemplar de caça maior, designa-se:",
+        "answers": [
+            { "text": "De salto" },
+            { "text": "De batida" },
+            { "text": "De aproximação", "correct": true }
+        ]
+    },
+    {
+        "question": "O processo de caça em que o caçador aguarda as espécies levantadas por batedores, denomina-se:",
+        "answers": [
+            { "text": "De montaria" },
+            { "text": "De batida", "correct": true },
+            { "text": "À espera" }
+        ]
+    },
+    {
+        "question": "Aparelhos que funcionem a pilhas para atrair as espécies cinegéticas:",
+        "answers": [
+            { "text": "Podem ser utilizados na caça aos patos" },
+            { "text": "Podem ser utilizados no controle de predadores" },
+            { "text": "Não podem ser utilizados na caça", "correct": true }
+        ]
+    },
+    {
+        "question": "Aparelhos que funcionem a pilhas para atrair as espécies cinegéticas:",
+        "answers": [
+            { "text": "Podem ser utilizados na caça aos patos" },
+            { "text": "Podem ser utilizados na caça aos tordos" },
+            { "text": "Não podem ser utilizados na caça", "correct": true }
+        ]
+    },
+    {
+        "question": "Considera-se período venatório, o intervalo de tempo:",
+        "answers": [
+            { "text": "Em que só se pode caçar aos coelhos, lebres e perdizes" },
+            { "text": "Em que cada uma das espécies pode ser caçada", "correct": true },
+            { "text": "Em que só se pode caçar às espécies migradoras" }
+        ]
+    },
+    {
+        "question": "No processo de caça a corricão não é permitido utilizar:",
+        "answers": [
+            { "text": "Pau e cavalo" },
+            { "text": "Cães de caça e cavalo" },
+            { "text": "Armas de fogo", "correct": true }
+        ]
+    },
+    {
+        "question": "Cada caçador pode abater por dia de caça:",
+        "answers": [
+            { "text": "50 coelhos." },
+            { "text": "Não tem limite." },
+            { "text": "O definido no calendário venatório anual.", "correct": true }
+        ]
+    },
+    {
+        "question": "A utilização de chamarizes na caça:",
+        "answers": [
+            { "text": "É sempre proibida" },
+            { "text": "É permitida na caça aos patos e tordos" },
+            { "text": "É permitida na caça aos patos, à raposa, ao veado e ao corço", "correct": true }
+        ]
+    },
+    {
+        "question": "A utilização do cavalo como meio de caça é permitida:",
+        "answers": [
+            { "text": "Só na caça à raposa a corricão" },
+            { "text": "Na caça às espécies de caça maior, à raposa e à lebre e na caça de cetraria", "correct": true },
+            { "text": "Só na caça à lebre de cetraria" }
+        ]
+    },
+    {
+        "question": "No processo de caça a corricão não é permitido utilizar:",
+        "answers": [
+            { "text": "Pau e cavalo" },
+            { "text": "Cães e cavalo" },
+            { "text": "Armas de fogo", "correct": true }
+        ]
+    },
+    {
+        "question": "Como meio de caça, o uso do pau só é permitido em que processos de caça?",
+        "answers": [
+            { "text": "Corricão e de salto", "correct": true },
+            { "text": "Batida e de salto" },
+            { "text": "Montaria e de salto" }
         ]
     }
 ]
