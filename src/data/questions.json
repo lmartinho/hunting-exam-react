@@ -154,9 +154,9 @@
     {
         "question": "Considera-se época venatória o período anual:",
         "answers": [
-            { "text": "Que decorre entre o dia 1 de junho de cada ano e o dia 31 de maio do ano seguinte" },
+            { "text": "Que decorre entre o dia 1 de junho de cada ano e o dia 31 de maio do ano seguinte", "correct": true },
             { "text": "Em que se pode praticar o exercício venatório" },
-            { "text": "Que decorre entre o dia 15 de agosto e o último domingo do mês de fevereiro do ano seguinte", "correct": true }
+            { "text": "Que decorre entre o dia 15 de agosto e o último domingo do mês de fevereiro do ano seguinte" }
         ]
     },
     {
@@ -389,6 +389,206 @@
             { "text": "Corricão e de salto", "correct": true },
             { "text": "Batida e de salto" },
             { "text": "Montaria e de salto" }
+        ]
+    },
+    {
+        "question": "Qual das seguintes frases está correta:",
+        "answers": [
+            { "text": "A utilização de barco é permitida na caça às narcejas e galinholas" },
+            { "text": "É permitido o uso de negaças às narcejas e tarambolas" },
+            { "text": "Nas montarias não há limite de número de cães a utilizar", "correct": true }
+        ]
+    },
+    {
+        "question": "O processo de caça em que as espécies cinegéticas são capturadas por ave de presa adestrada para esse fim, denomina-se:",
+        "answers": [
+            { "text": "Batida" },
+            { "text": "Corricão" },
+            { "text": "Cetraria", "correct": true }
+        ]
+    },
+    {
+        "question": "Um caçador não pode utilizar arma de fogo quando pretende caçar pelo processo de:",
+        "answers": [
+            { "text": "Corricão", "correct": true },
+            { "text": "Montaria" },
+            { "text": "Salto" }
+        ]
+    },
+    {
+        "question": "Indique qual das frases está correta:",
+        "answers": [
+            { "text": "É permitido caçar as espécies que constem do calendário venatório publicado anualmente", "correct": true },
+            { "text": "É permitido caçar todas as espécies classificadas como cinegéticas" },
+            { "text": "É permitido caçar qualquer espécie que cause prejuízos na agricultura" }
+        ]
+    },
+    {
+        "question": "Em terrenos cinegéticos não ordenados, cada caçador pode ser acompanhado por:",
+        "answers": [
+            { "text": "Cinco auxiliares" },
+            { "text": "Três auxiliares" },
+            { "text": "Um auxiliar", "correct": true }
+        ]
+    },
+    {
+        "question": "Os matilheiros são auxiliares do caçador que têm como função:",
+        "answers": [
+            { "text": "Procurar, perseguir e levantar espécies de caça menor com a ajuda de cães" },
+            { "text": "Procurar, perseguir e levantar espécies de caça maior com a ajuda de cães", "correct": true },
+            { "text": "Procurar, perseguir e levantar espécies de caça maior sem a ajuda de cães" }
+        ]
+    },
+    {
+        "question": "Para terrenos cinegéticos não ordenados, qual das afirmações está correta?",
+        "answers": [
+            { "text": "É permitido caçar ao javali pelo processo de aproximação" },
+            { "text": "Podem realizar-se batidas às raposas às quartas-feiras" },
+            { "text": "A caça à raposa a corricão pode ser exercida às quartas-feiras e sábados", "correct": true }
+        ]
+    },
+    {
+        "question": "Em terrenos cinegéticos não ordenados, os dias de caça permitidos para caçar com arma de fogo, são:",
+        "answers": [
+            { "text": "As quintas-feiras, sábados e domingos" },
+            { "text": "As quintas-feiras, domingos e feriados nacionais obrigatórios", "correct": true },
+            { "text": "As quintas-feiras, domingos, feriados nacionais obrigatórios e feriados municipais" }
+        ]
+    },
+    {
+        "question": "Em terrenos cinegéticos ordenados, a caça a espécies de caça maior:",
+        "answers": [
+            { "text": "É permitida nos dias previstos nos respetivos planos de ordenamento cinegético ou exploração", "correct": true },
+            { "text": "Só é permitida em três dias da semana à escolha do concessionário" },
+            { "text": "É permitida em qualquer dia da semana apenas nas zonas de caça turísticas" }
+        ]
+    },
+    {
+        "question": "Em termos alimentares, o coelho é:",
+        "answers": [
+            { "text": "Um pequeno carnívoro" },
+            { "text": "Um pequeno omnívoro" },
+            { "text": "Um pequeno herbívoro", "correct": true }
+        ]
+    },
+    {
+        "question": "Quando em fuga, a corrida do coelho caracteriza-se por ser:",
+        "answers": [
+            { "text": "Retilínea" },
+            { "text": "Em alongados ziguezagues" },
+            { "text": "Em apertados ziguezagues", "correct": true }
+        ]
+    },
+    {
+        "question": "O coelho vive preferencialmente em:",
+        "answers": [
+            { "text": "Zonas de mato abundante", "correct": true },
+            { "text": "Zonas de arvoredo muito denso" },
+            { "text": "Zonas arenosas e húmidas" }
+        ]
+    },
+    {
+        "question": "A alimentação do coelho é constituída essencialmente por:",
+        "answers": [
+            { "text": "Raízes, caules e pequenos insetos" },
+            { "text": "Plantas herbáceas, raízes, caules, grãos e cascas suculentas", "correct": true },
+            { "text": "Plantas herbáceas, raízes e pequenos batráquios" }
+        ]
+    },
+    {
+        "question": "O coelho é um animal de hábitos:",
+        "answers": [
+            { "text": "Noturnos e crepusculares", "correct": true },
+            { "text": "Essencialmente diurnos" },
+            { "text": "Essencialmente noturnos" }
+        ]
+    },
+    {
+        "question": "Os coelhos vivem, normalmente em:",
+        "answers": [
+            { "text": "Colónias, com galerias extensas e muito ramificadas", "correct": true },
+            { "text": "Colónias, com galerias extensas não ramificadas" },
+            { "text": "Tocas de habitação individuais" }
+        ]
+    },
+    {
+        "question": "As coelhas prenhes têm as ninhadas:",
+        "answers": [
+            { "text": "Numa ramificação profunda da toca de habitação" },
+            { "text": "Numa toca especial afastada da colónia", "correct": true },
+            { "text": "Numa ramificação superficial da toca de habitação" }
+        ]
+    },
+    {
+        "question": "As tocas de reprodução dos coelhos são formadas por:",
+        "answers": [
+            { "text": "Uma galeria simples e profunda", "correct": true },
+            { "text": "Uma galeria complexa e profunda" },
+            { "text": "Uma galeria simples e superficial" }
+        ]
+    },
+    {
+        "question": "As tocas de reprodução dos coelhos são construídas:",
+        "answers": [
+            { "text": "Pelas fêmeas", "correct": true },
+            { "text": "Por ambos os sexos" },
+            { "text": "Só pelos machos" }
+        ]
+    },
+    {
+        "question": "As tocas de reprodução dos coelhos são constituídas por:",
+        "answers": [
+            { "text": "Uma única abertura, forrada com ervas e folhas secas" },
+            { "text": "Uma única abertura, forrada com pelos da própria fêmea", "correct": true },
+            { "text": "Uma única abertura, forrada com ervas, folhas e cascas secas" }
+        ]
+    },
+    {
+        "question": "Ao fim de quanto tempo, as coelhas mudam os filhos para as tocas de habitação?",
+        "answers": [
+            { "text": "1 Semana" },
+            { "text": "2 Semanas" },
+            { "text": "3 Semanas", "correct": true }
+        ]
+    },
+    {
+        "question": "O coelho-bravo está apto a reproduzir-se a partir da idade seguinte:",
+        "answers": [
+            { "text": "Quatro meses" },
+            { "text": "Seis meses", "correct": true },
+            { "text": "Doze meses" }
+        ]
+    },
+    {
+        "question": "Em comprimento, as orelhas do coelho são:",
+        "answers": [
+            { "text": "Maiores que as da lebre" },
+            { "text": "Maiores que o comprimento da sua cabeça" },
+            { "text": "Menores que o comprimento da sua cabeça", "correct": true }
+        ]
+    },
+    {
+        "question": "A época de reprodução mais intensa do coelho ocorre de:",
+        "answers": [
+            { "text": "Março a maio", "correct": true },
+            { "text": "Março a agosto" },
+            { "text": "Durante todo o ano" }
+        ]
+    },
+    {
+        "question": "Nas coelhas, o período de gestação é de:",
+        "answers": [
+            { "text": "25 a 30 dias" },
+            { "text": "27 a 30 dias" },
+            { "text": "28 a 30 dias", "correct": true }
+        ]
+    },
+    {
+        "question": "As coelhas têm, em média, quantas ninhadas por ano?",
+        "answers": [
+            { "text": "1 a 4" },
+            { "text": "3 a 5", "correct": true },
+            { "text": "2 a 5" }
         ]
     }
 ]
