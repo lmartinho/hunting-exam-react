@@ -590,5 +590,85 @@
             { "text": "3 a 5", "correct": true },
             { "text": "2 a 5" }
         ]
+    },
+    {
+        "question": "Os láparos nascem:",
+        "answers": [
+            { "text": "Cegos, surdos e sem pelo", "correct": true },
+            { "text": "De olhos abertos e com pelo" },
+            { "text": "Cegos, surdos e com pelo" }
+        ]
+    },
+    {
+        "question": "Ao nível das doenças epidémicas do coelho, qual das frases está correta?",
+        "answers": [
+            { "text": "Nos repovoamentos proceda ao seu controlo sanitário e vacinação", "correct": true },
+            { "text": "Pode esfolar os coelhos caçados no campo" },
+            { "text": "Se esfolar os coelhos caçados dê as vísceras aos cães" }
+        ]
+    },
+    {
+        "question": "Ao nível das doenças epidémicas, qual das seguintes medidas pode contribuir para o ordenamento do coelho-bravo?",
+        "answers": [
+            { "text": "Queimar os coelhos vítimas de doenças", "correct": true },
+            { "text": "Não realizar a queima de restolhos" },
+            { "text": "Construir tocas ou “morouços”" }
+        ]
+    },
+    {
+        "question": "O coelho pode viver até aos:",
+        "answers": [
+            { "text": "5 anos" },
+            { "text": "10 anos", "correct": true },
+            { "text": "15 anos" }
+        ]
+    },
+    {
+        "question": "O coelho é atacado por uma doença contagiosa grave. Indique qual:",
+        "answers": [
+            { "text": "Coccidiose" },
+            { "text": "Mixomatose", "correct": true },
+            { "text": "Brucelose" }
+        ]
+    },
+    {
+        "question": "Os coelhos abrem os olhos ao fim de:",
+        "answers": [
+            { "text": "5 dias" },
+            { "text": "10 dias", "correct": true },
+            { "text": "15 dias" }
+        ]
+    },
+    {
+        "question": "O aparelho auditivo do coelho está completamente desenvolvido aos:",
+        "answers": [
+            { "text": "8 dias", "correct": true },
+            { "text": "10 dias" },
+            { "text": "15 dias" }
+        ]
+    },
+    {
+        "question": "A mixomatose, doença que ataca os coelhos, é:",
+        "answers": [
+            { "text": "Transmissível ao homem" },
+            { "text": "Não transmissível ao homem", "correct": true },
+            { "text": "Transmissível a outras espécies cinegéticas" }
+        ]
+    },
+    {
+        "question": "Aos coelhos recém-nascidos dá-se, vulgarmente, o nome de:",
+        "answers": [
+            { "text": "Láparos", "correct": true },
+            { "text": "Lebrachos" },
+            { "text": "Listados" }
+        ]
+    },
+    {
+        "question": "Relativamente ao coelho-bravo indique a frase correta:",
+        "answers": [
+            { "text": "É uma espécie de distribuição restrita" },
+            { "text": "É uma espécie pouco importante no equilíbrio ecológico do habitat mediterrânico" },
+            { "text": "A mixomatose é uma doença que contribui para a diminuição das populações de coelho", "correct": true }
+        ]
     }
 ]
