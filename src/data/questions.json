@@ -670,5 +670,53 @@
             { "text": "É uma espécie pouco importante no equilíbrio ecológico do habitat mediterrânico" },
             { "text": "A mixomatose é uma doença que contribui para a diminuição das populações de coelho", "correct": true }
         ]
+    },
+    {
+        "question": "O coelho-bravo é uma espécie que vive:",
+        "answers": [
+            { "text": "Em zonas onde o mato é raro, preferindo terrenos húmidos e argilosos" },
+            { "text": "Em zonas abertas sem mato, preferindo terrenos acidentados e rochosos" },
+            { "text": "Em zonas onde o mato é abundante, preferindo terrenos secos e arenosos", "correct": true }
+        ]
+    },
+    {
+        "question": "Onde há maior probabilidade de encontrar o coelho-bravo?",
+        "answers": [
+            { "text": "Em terrenos húmidos e barrentos" },
+            { "text": "Em zonas onde o mato é abundante", "correct": true },
+            { "text": "Em zonas de pousios e terras cultivadas" }
+        ]
+    },
+    {
+        "question": "Qual das medidas pode contribuir positivamente para o ordenamento do coelho-bravo:",
+        "answers": [
+            { "text": "Realizar repovoamentos independentemente da origem dos animais" },
+            { "text": "Construir tocas ou “morouços” em terrenos onde seja difícil escavar", "correct": true },
+            { "text": "Realizar repovoamentos com fêmeas de coelho-manso para aumentar a capacidade de reprodução" }
+        ]
+    },
+    {
+        "question": "Em comprimento, as orelhas da lebre são:",
+        "answers": [
+            { "text": "Menores que as do coelho" },
+            { "text": "Maiores que o comprimento da sua cabeça", "correct": true },
+            { "text": "Menores que o comprimento da sua cabeça" }
+        ]
+    },
+    {
+        "question": "Uma das características da lebre é:",
+        "answers": [
+            { "text": "Possuir orelhas pequenas, brancas na extremidade" },
+            { "text": "Possuir orelhas grandes, negras na extremidade", "correct": true },
+            { "text": "Possuir orelhas grandes e arredondadas, menores que o comprimento da cabeça" }
+        ]
+    },
+    {
+        "question": "Uma das características da lebre é:",
+        "answers": [
+            { "text": "Possuir membros posteriores maiores que os anteriores", "correct": true },
+            { "text": "Possuir membros anteriores maiores que os posteriores" },
+            { "text": "Possuir tamanho semelhante ao do coelho" }
+        ]
     }
 ]
