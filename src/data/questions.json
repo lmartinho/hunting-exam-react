@@ -718,5 +718,125 @@
             { "text": "Possuir membros anteriores maiores que os posteriores" },
             { "text": "Possuir tamanho semelhante ao do coelho" }
         ]
+    },
+    {
+        "question": "O maior tamanho dos membros posteriores da lebre permite-lhe:",
+        "answers": [
+            { "text": "Adquirir boa aderência" },
+            { "text": "Adquirir boa capacidade de fuga em ziguezague" },
+            { "text": "Adquirir grande velocidade", "correct": true }
+        ]
+    },
+    {
+        "question": "A lebre é, geralmente mais abundante:",
+        "answers": [
+            { "text": "Na Estremadura e a Sul do Tejo" },
+            { "text": "Na Beira Interior e a Sul do Tejo", "correct": true },
+            { "text": "Na Beira Litoral e a Sul o Tejo" }
+        ]
+    },
+    {
+        "question": "A lebre prefere:",
+        "answers": [
+            { "text": "Pousios e terras cultivadas", "correct": true },
+            { "text": "Terrenos acidentados e pedregosos" },
+            { "text": "Terrenos com grande densidade de coberto" }
+        ]
+    },
+    {
+        "question": "A lebre é uma espécie que:",
+        "answers": [
+            { "text": "Vive em tocas com galerias pouco ramificadas" },
+            { "text": "Prefere terrenos com grande densidade de coberto." },
+            { "text": "Prefere terrenos planos, húmidos e pouco cobertos.", "correct": true }
+        ]
+    },
+    {
+        "question": "A lebre é:",
+        "answers": [
+            { "text": "Uma espécie herbívora", "correct": true },
+            { "text": "Uma espécie carnívora" },
+            { "text": "Uma espécie omnívora" }
+        ]
+    },
+    {
+        "question": "A lebre é:",
+        "answers": [
+            { "text": "Um animal solitário", "correct": true },
+            { "text": "Um animal que vive em grandes colónias" },
+            { "text": "Um animal que vive aos casais" }
+        ]
+    },
+    {
+        "question": "Às lebres recém-nascidas dá-se, vulgarmente, o nome de:",
+        "answers": [
+            { "text": "Láparos" },
+            { "text": "Lebrachos", "correct": true },
+            { "text": "Listados" }
+        ]
+    },
+    {
+        "question": "O período de gestação da lebre é de:",
+        "answers": [
+            { "text": "40 a 44 dias" },
+            { "text": "40 a 42 dias" },
+            { "text": "42 a 44 dias", "correct": true }
+        ]
+    },
+    {
+        "question": "Os lebrachos nascem:",
+        "answers": [
+            { "text": "De olhos abertos e com pelo", "correct": true },
+            { "text": "Cegos, surdos e com pelo" },
+            { "text": "De olhos fechados e com pelo" }
+        ]
+    },
+    {
+        "question": "- Os lebrachos são amamentados até às:",
+        "answers": [
+            { "text": "2 semanas" },
+            { "text": "3 semanas", "correct": true },
+            { "text": "4 semanas" }
+        ]
+    },
+    {
+        "question": "A lebre tem, normalmente, quantas ninhadas por ano?",
+        "answers": [
+            { "text": "1 a 5" },
+            { "text": "2 a 4" },
+            { "text": "1 a 3", "correct": true }
+        ]
+    },
+    {
+        "question": "Nas lebres, cada ninhada é, normalmente, constituída por quantos lebrachos?",
+        "answers": [
+            { "text": "1 ou 2", "correct": true },
+            { "text": "2 a 3" },
+            { "text": "2 a 4" }
+        ]
+    },
+    {
+        "question": "A lebre reconhece-se facilmente por:",
+        "answers": [
+            { "text": "Ter os membros da frente muito maiores que os de trás" },
+            { "text": "Ter as orelhas grandes com a extremidade negra", "correct": true },
+            { "text": "Ter as orelhas pequenas e pontiagudas" }
+        ]
+    },
+    {
+        "question": "A lebre é uma espécie que prefere como habitat:",
+        "answers": [
+            { "text": "Matagais densos e fechados" },
+            { "text": "Planícies abertas, cultivadas ou em pousio", "correct": true },
+            { "text": "Áreas acidentadas e pedregosas" }
+        ]
+    },
+    {
+        "question": "A raposa é:",
+        "answers": [
+            { "text": "Um animal solitário", "correct": true },
+            { "text": "Um animal que vive em grandes colónias" },
+            { "text": "Um animal que vive aos casais" }
+        ]
     }
 ]
