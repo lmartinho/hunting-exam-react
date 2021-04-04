@@ -838,5 +838,61 @@
             { "text": "Um animal que vive em grandes colónias" },
             { "text": "Um animal que vive aos casais" }
         ]
+    },
+    {
+        "question": "A raposa é:",
+        "answers": [
+            { "text": "Um mamífero de médio porte", "correct": true },
+            { "text": "Um mamífero de grande porte" },
+            { "text": "Um mamífero de pequeno porte" }
+        ]
+    },
+    {
+        "question": "Os machos da raposa, por vezes, podem distinguir-se das fêmeas por:",
+        "answers": [
+            { "text": "Apresentarem uma cabeça menos forte e mais afilada" },
+            { "text": "Apresentarem uma cabeça mais forte e menos afilada", "correct": true },
+            { "text": "Apresentarem uma cabeça mais forte e mais afilada" }
+        ]
+    },
+    {
+        "question": "A pelagem da raposa, durante o inverno é:",
+        "answers": [
+            { "text": "Menos espesso e mais denso que no verão" },
+            { "text": "Mais espesso e menos denso que no verão" },
+            { "text": "Mais espesso e mais denso que no verão", "correct": true }
+        ]
+    },
+    {
+        "question": "O cio da raposa ocorre geralmente em:",
+        "answers": [
+            { "text": "Janeiro", "correct": true },
+            { "text": "Fevereiro" },
+            { "text": "Março" }
+        ]
+    },
+    {
+        "question": "O período de gestação da raposa tem a duração aproximada de:",
+        "answers": [
+            { "text": "40 a 50 dias" },
+            { "text": "50 a 60 dias", "correct": true },
+            { "text": "60 a 70 dias" }
+        ]
+    },
+    {
+        "question": "Na raposa, cada ninhada tem em média:",
+        "answers": [
+            { "text": "1 a 3 crias" },
+            { "text": "2 a 5 crias" },
+            { "text": "3 a 6 crias", "correct": true }
+        ]
+    },
+    {
+        "question": "As raposas podem ser vistas em grupo:",
+        "answers": [
+            { "text": "Durante todo o ano" },
+            { "text": "Durante o período de inverno" },
+            { "text": "Durante o cio das fêmeas", "correct": true }
+        ]
     }
 ]
