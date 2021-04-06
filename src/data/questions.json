@@ -894,5 +894,110 @@
             { "text": "Durante o período de inverno" },
             { "text": "Durante o cio das fêmeas", "correct": true }
         ]
+    },
+    {
+        "question": "O saca-rabos é um animal:",
+        "answers": [
+            { "text": "Que habita em locais com vegetação pouco densa" },
+            { "text": "Solitário" },
+            { "text": "Que tanto pode ser visto de dia como de noite", "correct": true }
+        ]
+    },
+    {
+        "question": "O saca-rabos possui orelhas:",
+        "answers": [
+            { "text": "Grandes e arredondadas" },
+            { "text": "Muito curtas e arredondadas", "correct": true },
+            { "text": "Muito curtas e afiladas" }
+        ]
+    },
+    {
+        "question": "O saca-rabos é:",
+        "answers": [
+            { "text": "Um carnívoro de médio porte", "correct": true },
+            { "text": "Um carnívoro de grande porte" },
+            { "text": "Um carnívoro de pequeno porte" }
+        ]
+    },
+    {
+        "question": "O saca-rabos é um animal:",
+        "answers": [
+            { "text": "Solitário" },
+            { "text": "Bastante sociável", "correct": true },
+            { "text": "Pouco sociável" }
+        ]
+    },
+    {
+        "question": "O saca-rabos é um animal que, durante as suas atividades de caça:",
+        "answers": [
+            { "text": "Se desloca em grupos", "correct": true },
+            { "text": "Se desloca aos casais" },
+            { "text": "Se desloca sozinho" }
+        ]
+    },
+    {
+        "question": "O saca-rabos é um animal:",
+        "answers": [
+            { "text": "Que habita locais com vegetação pouco densa" },
+            { "text": "Que habita locais húmidos e alagadiços" },
+            { "text": "Que habita locais com vegetação densa", "correct": true }
+        ]
+    },
+    {
+        "question": "A seguinte figura representa:",
+        "answers": [
+            { "text": "Um saca-rabos", "correct": true },
+            { "text": "Um texugo" },
+            { "text": "Um furão" }
+        ],
+        "image": null
+    },
+    {
+        "question": "O saca-rabos alimenta-se principalmente de:",
+        "answers": [
+            { "text": "Aves, mamíferos, répteis e frutos", "correct": true },
+            { "text": "Produtos vegetais variados" },
+            { "text": "Insetos" }
+        ]
+    },
+    {
+        "question": "O saca-rabos alimenta-se fundamentalmente de:",
+        "answers": [
+            { "text": "Pequenas aves e mamíferos, répteis e frutos", "correct": true },
+            { "text": "Produtos vegetais variados" },
+            { "text": "Rebentos de árvores e arbustos" }
+        ]
+    },
+    {
+        "question": "O saca-rabos tem uma alimentação:",
+        "answers": [
+            { "text": "Pouco variada, exclusivamente à base de peixes" },
+            { "text": "Pouco variada, exclusivamente à base de insetos" },
+            { "text": "Muito variada, onde se incluem pequenas aves e mamíferos, invertebrados, répteis e frutos", "correct": true }
+        ]
+    },
+    {
+        "question": "A partir de que idade se pode reproduzir o javali?",
+        "answers": [
+            { "text": "A partir dos 6 meses" },
+            { "text": "A partir dos 8 meses", "correct": true },
+            { "text": "A partir dos 10 meses" }
+        ]
+    },
+    {
+        "question": "Como se designam os grupos de javalis?",
+        "answers": [
+            { "text": "Varas ou companhias", "correct": true },
+            { "text": "Rebanhos ou manadas" },
+            { "text": "Bandos ou companhias" }
+        ]
+    },
+    {
+        "question": "Qual a espécie de caça maior com mais ampla representação em Portugal?",
+        "answers": [
+            { "text": "Raposa" },
+            { "text": "Veado" },
+            { "text": "Javali", "correct": true }
+        ]
     }
 ]
