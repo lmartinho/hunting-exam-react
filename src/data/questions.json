@@ -999,5 +999,93 @@
             { "text": "Veado" },
             { "text": "Javali", "correct": true }
         ]
+    },
+    {
+        "question": "No javali, dá-se o nome de navalhas aos dentes:",
+        "answers": [
+            { "text": "Caninos inferiores", "correct": true },
+            { "text": "Caninos superiores" },
+            { "text": "Pré-molares" }
+        ]
+    },
+    {
+        "question": "No javali, dá-se o nome de amoladeiras aos dentes:",
+        "answers": [
+            { "text": "Caninos superiores", "correct": true },
+            { "text": "Pré-molares" },
+            { "text": "Caninos inferiores" }
+        ]
+    },
+    {
+        "question": "Em hábitos alimentares, o javali é um animal:",
+        "answers": [
+            { "text": "Insectívoro" },
+            { "text": "Granívoro" },
+            { "text": "Omnívoro", "correct": true }
+        ]
+    },
+    {
+        "question": "Com a idade, os javalis machos adultos, tendem a:",
+        "answers": [
+            { "text": "Formar casais" },
+            { "text": "Formar grandes grupos só de machos" },
+            { "text": "Isolar-se progressivamente", "correct": true }
+        ]
+    },
+    {
+        "question": "A gestação do javali, dura em média:",
+        "answers": [
+            { "text": "100 dias" },
+            { "text": "110 dias" },
+            { "text": "120 dias", "correct": true }
+        ]
+    },
+    {
+        "question": "Que nome se dá à cria de javali com menos de 6 meses de idade?",
+        "answers": [
+            { "text": "Listado", "correct": true },
+            { "text": "Farropo" },
+            { "text": "Leitão" }
+        ]
+    },
+    {
+        "question": "Entre os 6 meses e 1 ano de idade, a cria de javali tem uma designação própria. Qual?",
+        "answers": [
+            { "text": "Bácoro" },
+            { "text": "Listado" },
+            { "text": "Farropo", "correct": true }
+        ]
+    },
+    {
+        "question": "Indique qual das seguintes frases está correta:",
+        "answers": [
+            { "text": "O javali é um animal sociável durante toda a sua vida" },
+            { "text": "O trofeu do javali é a cabeça" },
+            { "text": "O cio do javali não ocorre sempre numa época fixa", "correct": true }
+        ]
+    },
+    {
+        "question": "O javali apresenta diferentes pelagens consoante a idade. A pelagem conhecida como “raiada” é característica dos animais com:",
+        "answers": [
+            { "text": "Menos de 6 meses de idade", "correct": true },
+            { "text": "2 anos de idade" },
+            { "text": "Idade adulta" }
+        ]
+    },
+    {
+        "question": "No javali adulto, um dos carateres que permitem distinguir o macho da fêmea é:",
+        "answers": [
+            { "text": "A cor mais clara do macho" },
+            { "text": "A presença de presas mais desenvolvidas nos machos", "correct": true },
+            { "text": "A cauda mais comprida no macho" }
+        ]
+    },
+    {
+        "question": "Em termos de habitat, o javali necessita sobretudo de dois elementos. Indique quais:",
+        "answers": [
+            { "text": "Zonas abertas com amplas áreas de alimentação" },
+            { "text": "Extensas zonas de abrigo - essencialmente constituídas por matos cerrados - e presença de água", "correct": true },
+            { "text": "Zonas cerealíferas em áreas muito acidentadas e presença de água" }
+        ]
     }
 ]
