@@ -1320,5 +1320,288 @@
             { "text": "No mês de dezembro" },
             { "text": "No mês de outubro" }
         ]
+    },
+    {
+        "question": "As parições no muflão verificam-se normalmente em:",
+        "answers": [
+            { "text": "Março" },
+            { "text": "Abril", "correct": true },
+            { "text": "Maio" }
+        ]
+    },
+    {
+        "question": "Os muflões machos adultos reúnem-se em grupos independentes:",
+        "answers": [
+            { "text": "No inverno" },
+            { "text": "Na primavera" },
+            { "text": "No verão", "correct": true }
+        ]
+    },
+    {
+        "question": "A seguinte figura representa:",
+        "answers": [
+            { "text": "Perdiz-vermelha", "correct": true },
+            { "text": "Faisão" },
+            { "text": "Rola-comum" }
+        ],
+        "image": null
+    },
+    {
+        "question": "A seguinte figura representa:",
+        "answers": [
+            { "text": "Uma codorniz" },
+            { "text": "Uma perdiz-vermelha", "correct": true },
+            { "text": "Um faisão" }
+        ],
+        "image": null
+    },
+    {
+        "question": "A perdiz-vermelha possui:",
+        "answers": [
+            { "text": "Bico e patas vermelhas", "correct": true },
+            { "text": "Bico amarelo e patas vermelhas" },
+            { "text": "Bico vermelho e patas amarelas" }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+        "answers": [
+            { "text": "Os machos serem menores e menos pesados que as fêmeas" },
+            { "text": "Os machos serem maiores e mais pesados que as fêmeas", "correct": true },
+            { "text": "Os machos serem do mesmo tamanho que as fêmeas" }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+        "answers": [
+            { "text": " A cabeça dos machos ser mais volumosa que a das fêmeas", "correct": true },
+            { "text": "A cabeça dos machos ser menos volumosa que a das fêmeas" },
+            { "text": "A cabeça das fêmeas ser mais volumosa que a dos machos" }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+        "answers": [
+            { "text": "As fêmeas terem tarsos mais curtos e delgados", "correct": true },
+            { "text": "As fêmeas terem os tarsos mais compridos e grossos" },
+            { "text": "As fêmeas terem os tarsos mais curtos e grossos" }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+        "answers": [
+            { "text": "Os machos terem tarsos mais curtos e grossos" },
+            { "text": "Os machos terem tarsos mais compridos e grossos", "correct": true },
+            { "text": "Os machos terem tarsos mais curtos e delgados" }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+        "answers": [
+            { "text": "Os machos terem esporões com base larga e extremidade arredondada", "correct": true },
+            { "text": "Os machos terem esporões com base estreita e extremidade bicuda" },
+            { "text": "Os machos terem esporões com base larga e extremidade bicuda" }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+        "answers": [
+            { "text": "As fêmeas, quando apresentam esporões, estes têm a base estreita e são bicudos", "correct": true },
+            { "text": "As fêmeas, quando apresentam esporões, estes têm a base estreita e são redondos" },
+            { "text": "As fêmeas, quando apresentam esporões, estes têm a base larga e são bicudos" }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha, enquanto juvenil, a muda das penas tem início:",
+        "answers": [
+            { "text": "Ao primeiro mês de vida", "correct": true },
+            { "text": "Ao segundo mês de vida" },
+            { "text": "Ao terceiro mês de vida" }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha, enquanto juvenil, as duas últimas rémiges são:",
+        "answers": [
+            { "text": "Pontiagudas e podem apresentar uma pequena pinta branca na extremidade", "correct": true },
+            { "text": "Arredondadas e podem apresentar uma pequena pinta branca na extremidade" },
+            { "text": "Pontiagudas e sem apresentar uma pequena pinta branca na extremidade" }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha, o adulto inicia a muda de todas as rémiges primárias:",
+        "answers": [
+            { "text": "Ao mesmo tempo que o juvenil" },
+            { "text": "Duas ou três semanas antes do juvenil", "correct": true },
+            { "text": "Duas ou três semanas depois do juvenil" }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha adulta, as duas últimas penas:",
+        "answers": [
+            { "text": "Podem apresentar uma pequena pinta branca na extremidade" },
+            { "text": "Têm a extremidade arredondada", "correct": true },
+            { "text": "Têm a extremidade pontiaguda" }
+        ]
+    },
+    {
+        "question": "A perdiz-vermelha, é uma ave que prefere especialmente:",
+        "answers": [
+            { "text": "Zonas alagadiças e incultas" },
+            { "text": "Zonas florestadas e com matos" },
+            { "text": "Zonas de culturas cerealíferas", "correct": true }
+        ]
+    },
+    {
+        "question": "Qual destas atuações contribui para a boa gestão de uma população de perdizes?",
+        "answers": [
+            { "text": "A utilização de pesticidas nas culturas" },
+            { "text": "O abate de mais de 60% dos efetivos" },
+            { "text": "O abate de menos de 50% dos efetivos", "correct": true }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha, a alimentação durante o primeiro mês de vida é:",
+        "answers": [
+            { "text": "Essencialmente insectívora", "correct": true },
+            { "text": "Essencialmente granívora" },
+            { "text": "Essencialmente vegetal" }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha adulta, a alimentação é constituída por:",
+        "answers": [
+            { "text": "Insetos, bagas, flores e grãos" },
+            { "text": "Grãos, bolotas, folhas, raízes e insetos" },
+            { "text": "Grãos, bolotas, folhas, rebentos, bagas, flores e raízes", "correct": true }
+        ]
+    },
+    {
+        "question": "A perdiz-vermelha, faz o ninho, geralmente:",
+        "answers": [
+            { "text": "No chão, com o fundo simplesmente coberto de plantas secas", "correct": true },
+            { "text": "No chão, com o fundo simplesmente coberto de penas suas" },
+            { "text": "No chão, com o fundo coberto de plantas secas e penas suas" }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha, a postura de ovos, no sul do País faz-se durante os meses de:",
+        "answers": [
+            { "text": "Março a abril", "correct": true },
+            { "text": "Abril a maio" },
+            { "text": "Abril a junho" }
+        ]
+    },
+    {
+        "question": "Os perdigotos logo que nascem:",
+        "answers": [
+            { "text": "Permanecem no ninho durante duas semanas" },
+            { "text": "Permanecem no ninho pelo menos uma semana" },
+            { "text": "Abandonam o ninho", "correct": true }
+        ]
+    },
+    {
+        "question": "Na perdiz-vermelha, a incubação dos ovos, dura cerca de:",
+        "answers": [
+            { "text": "21 dias" },
+            { "text": "23 dias", "correct": true },
+            { "text": "25 dias" }
+        ]
+    },
+    {
+        "question": "Em média, o ninho de perdiz-vermelha contém:",
+        "answers": [
+            { "text": "10 ovos" },
+            { "text": "12 ovos", "correct": true },
+            { "text": "14 ovos" }
+        ]
+    },
+    {
+        "question": "A perdiz-vermelha, durante o verão e até nova época de acasalamento, desloca-se:",
+        "answers": [
+            { "text": "Aos casais" },
+            { "text": "Isoladamente" },
+            { "text": "Em bandos", "correct": true }
+        ]
+    },
+    {
+        "question": "Para bem gerir uma população de perdizes há que seguir certas regras. Qual está certa?",
+        "answers": [
+            { "text": "Colocar à sua disposição alimento, água e abrigo", "correct": true },
+            { "text": "Abater, anualmente, 60% dos efetivos" },
+            { "text": "Eliminar todos os predadores" }
+        ]
+    },
+    {
+        "question": "Para manter o nível da população de perdizes há que seguir certas regras. Qual está errada",
+        "answers": [
+            { "text": "Evitar o abuso de pesticidas" },
+            { "text": "Cuidar da maneira como são feitas as ceifas" },
+            { "text": "Abater, anualmente, 60% dos efetivos", "correct": true }
+        ]
+    },
+    {
+        "question": "Para bem gerir uma população de perdizes há que seguir certas regras. Qual está certa?",
+        "answers": [
+            { "text": "Eliminar todos os predadores" },
+            { "text": "Abater, anualmente, todos os predadores" },
+            { "text": "Evitar a deambulação de cães e gatos vadios", "correct": true }
+        ]
+    },
+    {
+        "question": "Numa população bem gerida, por cada ninho de perdiz, chegam em média à idade adulta:",
+        "answers": [
+            { "text": "3 perdigotos" },
+            { "text": "5 perdigotos", "correct": true },
+            { "text": "7 perdigotos" }
+        ]
+    },
+    {
+        "question": "A perdiz-vermelha faz geralmente o ninho:",
+        "answers": [
+            { "text": "Em arbustos de pequeno porte" },
+            { "text": "No chão", "correct": true },
+            { "text": "Em buracos de muros e paredes" }
+        ]
+    },
+    {
+        "question": "A perdiz-vermelha adulta distingue-se da juvenil:",
+        "answers": [
+            { "text": "Pela cor e tamanho" },
+            { "text": "Pela observação das rémiges primárias (as dez penas da extremidade da asa)", "correct": true },
+            { "text": "Pelos tarsos e esporões" }
+        ]
+    },
+    {
+        "question": "A perdiz-vermelha é uma espécie que prefere:",
+        "answers": [
+            { "text": "Zonas de culturas cerealíferas", "correct": true },
+            { "text": "Zonas com solos leves e húmidos" },
+            { "text": "Zonas rochosas incluindo a orla marítima" }
+        ]
+    },
+    {
+        "question": "A seguinte figura representa:",
+        "answers": [
+            { "text": "Um pombo-torcaz" },
+            { "text": "Um pombo-bravo" },
+            { "text": "Uma rola-comum", "correct": true }
+        ],
+        "image": null
+    },
+    {
+        "question": "A rola-comum distingue-se dos pombos por:",
+        "answers": [
+            { "text": "Ser mais pequena e de silhueta mais esbelta", "correct": true },
+            { "text": "Ser mais pequena e de silhueta menos esbelta " },
+            { "text": "Ser mais pequena e de silhueta mais atarracada" }
+        ]
+    },
+    {
+        "question": "A rola-comum distingue-se dos pombos por:",
+        "answers": [
+            { "text": "Em voo, ter um batimento de asas menos irregular" },
+            { "text": "Em voo, ter um batimento de asas mais irregular", "correct": true },
+            { "text": "Em voo, ter um batimento de asas mais lento" }
+        ]
     }
 ]
